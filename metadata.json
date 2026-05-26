@@ -1,0 +1,6 @@
+{
+  "name": "Buku Kas dan Stok Air Argus",
+  "description": "Aplikasi pencatatan stok galon & laporan keuangan distributor Air Argus AMDK dari pabrik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
